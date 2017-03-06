@@ -6,6 +6,7 @@ In this program, you’ll take on real world problems by analyzing data sets for
 
 ## Administrative
 
+- [Assessments] (assessments.md)
 - [Expectations] (expectations.md)
 - [Calendar]() link TBD
   - **Includes all lessons and homework assignments with due dates**
