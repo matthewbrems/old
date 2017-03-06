@@ -1,6 +1,6 @@
 ## Assessments
 
-Throughout the course, we will gauge your progress and competency in a number of ways: labs, projects, code reviews, presentations, and quizzes/exams. In order to graduate, you must meet certain standards, mentioned below.
+Throughout the course, we will gauge your progress and competency in a number of ways: labs, quizzes/exams, review presentations, projects, code reviews, and blog posts. In order to graduate, you must meet certain standards, mentioned below.
 
 1. Labs
 Labs will be the most common method of evaluation - there will be roughly seven to eight labs each week. It is our expectation that you complete each lab to the best of your ability. Each week, we will select approximately 2 labs to grade for accuracy/completeness and provide feedback accordingly. At the beginning of each week, we will let you know of one of the labs we will grade. **In order to graduate, you must satisfactorily complete 80% of these labs.**
@@ -16,3 +16,6 @@ Each student will complete a series of projects designed to demonstrate mastery 
 
 5. Code Reviews
 In data science, the ability to program effectively is as important as the ability to collaborate with and learn from others. A code review is the perfect opportunity to promote both. You will display your code to fellow students, walk through each line of code, and defend the choices you made when writing your code. Your classmates will have the opportunity to ask questions, to suggest changes, and to learn from what you did. **In order to graduate, you must do one code review.**
+
+6. Blog Posts
+Whereas advances in most academic areas is left to peer-reviewed journals, many advances in data science come from people posting research on blogs or personal sites. In fact, blogs are to data science as Twitter is to journalists. Many data scientists have blogs as a way to communicate interesting findings, code snippets that they have found to be particularly helpful or challenging, and discussions of "hot" data science topics. We believe that you keeping a blog is incredibly beneficial to your development as a data scientist. As such, you will be keeping a blog of your own with regular posts throughout the cohort. **In order to graduate, you must publish at least ten data science-related blog posts on a personal site.**
