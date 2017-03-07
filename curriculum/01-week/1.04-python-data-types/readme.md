@@ -448,3 +448,7 @@ Let's check to see if we know what we learned about today:
 - Define integers, strings, tuples, lists, and dictionaries
 - Demonstrate arithmetic operations and string operations
 - Demonstrate variable assignment
+
+## Resources
+
+- Answer to "what is the difference between tuples and lists" [on Stack Overflow](http://stackoverflow.com/questions/1708510/python-list-vs-tuple-when-to-use-each)
