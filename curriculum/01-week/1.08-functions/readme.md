@@ -46,6 +46,8 @@ Best practices with functions:
 - Before production, try to break it. Put in positive and negative numbers, strings, dictionaries, lists, blanks - see what breaks and how you can fix it.
 - COMMENTS.
 - Start by getting the answer, then try to get that answer more quickly.
+- pls write comments
+- Avoid deleting your code if you can - always. Comment it out, save it in a different file, move it to a different cell if you have to, but try to never delete a fragment of code unless it's 100% worthless and you've checked with your friends and it's been a decade since you touched that fragment.
 - For the love of everything that is good in this world, write comments!
 
 ## Creating Functions Together
