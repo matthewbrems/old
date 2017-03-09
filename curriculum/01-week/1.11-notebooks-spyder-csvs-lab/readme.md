@@ -1,7 +1,6 @@
 # ![Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Notebooks and CSVs Lab
 
-
-For this lab, you'll be editing the NBViewer you created as a part of the lesson to continue practicing reading in data and performing operations on the data using Python.
+For this lab, you are optionally (encouraged!) to submit a publicly viewable notebook via NBViewer. Bear in mind to do so you will have to create a new public repository on your own Github, add this lab's Jupyter notebook to it, and then use the link of that notebook on [NBViewer](nbviewer.jupyter.org).
 
 We'll be working with the infamous [iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 
