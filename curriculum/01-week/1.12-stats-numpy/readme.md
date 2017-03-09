@@ -1,11 +1,11 @@
 ---
-title: Math Primer 1 + Intro to NumPy
+title: Statistics & NumPy
 duration: "1:5"
 creator:
     name: Lucy Williams & Kiefer Katovich & Matt Brems
 ---
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Math Primer 1 + Intro to NumPy
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Statistics + Intro to NumPy
 Week 1 | Lesson 1.12
 
 ### LEARNING OBJECTIVES
