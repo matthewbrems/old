@@ -140,5 +140,5 @@ Nice. Next we'll be introduced to NumPy. Sounds like fun!
 
 - Markdown guide [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Advanced Jupyter Notebook tips [here](https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/)
-
+- The open method [documentation](https://docs.python.org/3/library/functions.html#open)
 
