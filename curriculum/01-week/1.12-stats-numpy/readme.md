@@ -1,11 +1,11 @@
 ---
-title: Math Primer 1 + Intro to NumPy
+title: Statistics & NumPy
 duration: "1:5"
 creator:
     name: Lucy Williams & Kiefer Katovich & Matt Brems
 ---
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Math Primer 1 + Intro to NumPy
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Statistics + Intro to NumPy
 Week 1 | Lesson 1.12
 
 ### LEARNING OBJECTIVES
@@ -277,8 +277,6 @@ We'll use [this incredible site](students.brown.edu/seeing-theory/) to discuss s
 **Skewness** is lack of symmetry in a distribution of data.
 
 [Technical note: we will be talking about skewness here in the context of _unimodal_ distributions.]
-
-![](./assets/images/skewness.png)
 
 A **positive-skewed** distribution means the right side tail of the distribution is longer or fatter than the left.
 
