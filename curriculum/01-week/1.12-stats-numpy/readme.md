@@ -278,8 +278,6 @@ We'll use [this incredible site](students.brown.edu/seeing-theory/) to discuss s
 
 [Technical note: we will be talking about skewness here in the context of _unimodal_ distributions.]
 
-![](./assets/images/skewness.png)
-
 A **positive-skewed** distribution means the right side tail of the distribution is longer or fatter than the left.
 
 Likewise a **negative-skewed** distribution means the left side tail is longer or fatter than the right.
