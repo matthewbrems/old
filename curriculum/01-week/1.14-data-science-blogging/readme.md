@@ -1,4 +1,12 @@
-# Data Science Blogging
+---
+title: Data Science Blogging
+duration: "1:5"
+creator:
+    name: Joseph Nelson
+    city: DC
+---
+
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Blogging
 
 ## Learning Objectives
 
@@ -43,7 +51,16 @@ First and foremost, check out KDNuggets's (a machine learning blog) [list of dat
 
 I also recommend Sebastian Raschka's [blog](http://sebastianraschka.com/blog/index.html), who often produces fun, educational pieces. A now defunct blog recommended in the same light is [echen.me](http://blog.echen.me/).
 
-My favorite data science personal blog, and one we should all seek to emulate, is [Max Woolf's](http://minimaxir.com/). Let's check out what he does well in the following: [Stack Overflow](http://minimaxir.com/2016/07/stack-overflow/), [Equity Job Offers in San Francisco](http://minimaxir.com/2016/05/sfba-compensation/), [Vizualizing Clickbait](http://minimaxir.com/2016/08/clickbait-cluster/), and [FB Reactions Classification](http://minimaxir.com/2016/06/interactive-reactions/). We'll walk through each of these independently and come together to discuss what we think Max does well.
+My favorite data science personal blog, and one we should all seek to emulate, is [Max Woolf's](http://minimaxir.com/). Let's check out what he does well in the following:
+
+- Stack Overflow](http://minimaxir.com/2016/07/stack-overflow/)
+- [Equity Job Offers in San Francisco](http://minimaxir.com/2016/05/sfba-compensation/)
+- [Vizualizing Clickbait](http://minimaxir.com/2016/08/clickbait-cluster/)
+- [FB Reactions Classification](http://minimaxir.com/2016/06/interactive-reactions/).
+
+We'll walk through each of these independently and come together to discuss what we think Max does well.
+
+Note that your audience is equally significant in the choice of your blog. If your blog has a high number of code snippets, it will be immediately less (or un) approachable for non-technical audiences. Because of this, I like the way Max provides __both__ a Jupyter Notebook and written write-up for his blogs.
 
 ### Tech Company blogs
 
