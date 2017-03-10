@@ -106,4 +106,9 @@ Be cautious: do not bound yourself to needing to engage in Python web developmen
 - [Techblog](https://techblog.trunkclub.com/) from Trunk Club is also a great engineering blog
 - Read Sebastian's [post](http://sebastianraschka.com/blog/2015/writing-pymle.html) on how to data science blog
 
+## DSI Examples
+
+Given questions about how to structure blogs, sites, etc, I encourage you to checkout Ritika's site: www.datawrites.co. Ritika does a great job of providing qualitative context to her projects and then linking to clean Jupyter Notebooks available on her Github. She also has a link to her Medium at the top, so that's a good place to look for blog post scope.
+
+
 
