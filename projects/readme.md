@@ -33,7 +33,7 @@ Your work must:
 
 - Materials must be submitted in a clearly commented Jupyter notebook.
 - Materials must be submitted via a GitHub pull request to the instructor's repo (the same way you submit labs).
-- Materials must be submitted by the end of Week 3.
+- Materials must be submitted by 9:00 AM on Monday, March 20.
 
 ---
 
@@ -90,4 +90,4 @@ Your instructors will score each of your technical requirements using the scale 
     **2** | _Meets expectations, good job!_
     **3** | _Exceeds expectations, you wonderful creature, you!_
 
- This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
+ This will serve as a helpful overall gauge of whether you met the project goals!
