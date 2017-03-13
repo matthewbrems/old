@@ -36,6 +36,7 @@
 * [Pandas!](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.coNtFdk)
 * [SciPy cheatsheet](https://www.datacamp.com/community/blog/python-scipy-cheat-sheet#gs.l07QdiM)
 * [A bunch of cheatsheets I've found useful in the past](https://medium.com/@mostlyinane/useful-cheatsheets-fd6495ae6d2f#.jmo11s7gk)
+* [Terminal game, as promised](https://github.com/ritikabhasker/flashcard-game)
 
 ### Places to practice coding
 * [CodeFights](https://codefights.com/)
