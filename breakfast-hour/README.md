@@ -3,7 +3,7 @@
 [Newsletters](### Newsletters)  
 [Cool Sites/Blogs](### Cool Sites/Blogs)  
 [Podcasts](### Podcasts)  
-[Resources for datasets] (### Resources for datasets)  
+[Resources for datasets](### Resources for datasets)  
 [Cheatsheets!](### Cheatsheets!)  
 [Places to practice coding](### Places to practice coding)  
 [General Productivity](### General Productivity)  
