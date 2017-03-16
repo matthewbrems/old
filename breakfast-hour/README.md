@@ -1,12 +1,12 @@
 # Starting the DSI -- Resources
 
-[Newsletters](### Newsletters)  
-[Cool Sites/Blogs](### Cool Sites/Blogs)  
-[Podcasts](### Podcasts)  
-[Resources for datasets](### Resources for datasets)  
-[Cheatsheets!](### Cheatsheets!)  
-[Places to practice coding](### Places to practice coding)  
-[General Productivity](### General Productivity)  
+[Newsletters](#newsletters)  
+[Cool Sites/Blogs](#cool-sites/blogs)  
+[Podcasts](#podcasts)  
+[Resources for datasets](#resources-for-datasets)  
+[Cheatsheets!](#cheatsheets!)  
+[Places to practice coding](#places-to-practice-coding)  
+[General Productivity](#general-productivity)  
 
 ### Newsletters 
 * [Data is Plural](https://tinyletter.com/data-is-plural)
