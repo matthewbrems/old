@@ -16,6 +16,7 @@ In this program, you’ll take on real world problems by analyzing data sets for
 - [One-on-Ones](one-on-ones.md)
 - [Squads](squads.md)
 - [Office Hours](office-hours.md)
+- [Outcomes](https://github.com/ga-dc/outcomes)
 
 ## Communication
 - [Asking for Help](asking-for-help.md)
