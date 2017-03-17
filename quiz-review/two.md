@@ -19,8 +19,8 @@ Try it yourself: [link](https://github.com/ga-students/DC-DSI4/tree/master/curri
 
 ## Methods and Attributes
 
-An attribute is a variable that is looked up on another object using dot syntax: obj.attribute.
+An attribute is a variable that is looked up on another object using dot syntax: obj.attribute. Examples include `df.shape`
 
-A method is, technically, a special type of attribute that also accepts arguments, performs operations, and potentially returns values. Methods are like functions available within Python classes.
+A method is, technically, a special type of attribute that also accepts arguments, performs operations, and potentially returns values. Methods are like functions available within Python classes. Examples include `df.head()` or `model.score()`
 
 More via [Stack Overflow](http://stackoverflow.com/questions/28798781/differences-between-data-attributes-and-method-attributes)
