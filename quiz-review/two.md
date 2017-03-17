@@ -1,10 +1,10 @@
 # ![logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Quiz Two Review
 
-# Confidence Intervals and Hypothesis Testing
+## Confidence Intervals and Hypothesis Testing
 
 
 
-# Boolean Filtering
+## Boolean Filtering
 
 Boolean filtering is a way to identify subsets of our dataframe.
 
@@ -17,7 +17,7 @@ users[users.age < 20]               # or, combine into a single step
 
 Try it yourself: [link](https://github.com/ga-students/DC-DSI4/tree/master/curriculum/02-week/2.09-pandas)
 
-# Methods and Attributes
+## Methods and Attributes
 
 An attribute is a variable that is looked up on another object using dot syntax: obj.attribute.
 
