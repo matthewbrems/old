@@ -6,9 +6,9 @@ In this program, you’ll take on real world problems by analyzing data sets for
 
 ## Administrative
 
-- [Assessments] (assessments.md)
-- [Expectations] (expectations.md)
-- [Calendar] (https://calendar.google.com/calendar/b/3/embed?src=generalassemb.ly_jm9pk4kf7eaj6ivucmvrpo4h24@group.calendar.google.com&ctz=America/New_York)
+- [Assessments](assessments.md)
+- [Expectations](expectations.md)
+- [Calendar](https://calendar.google.com/calendar/b/3/embed?src=generalassemb.ly_jm9pk4kf7eaj6ivucmvrpo4h24@group.calendar.google.com&ctz=America/New_York)
   - **Includes all lessons and homework assignments with due dates**
 - [Attendance](attendance.md)
 - [Incentives](incentives.md)
