@@ -93,7 +93,7 @@ Your work must:
 
 - Materials must be in a clearly commented Jupyter Notebook that satisfies project requirements.
 - Materials must be submitted via a GitHub pull request to the instructor's repo.
-- Materials must be submitted by April 7 at 9:00:00 a.m. EST.
+- Materials must be submitted by March 31 at 9:00:00 a.m. EST.
 
 ---
 
