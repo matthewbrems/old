@@ -103,7 +103,7 @@ For consistency, moving forward we will use beta_0 for the Y-intercept and beta_
 
 #### "Best" Values for Slope and Y-Intercept
 
-<details><summary> **Discussion/Demonstration: What is the best value for $\beta_0$ and the best value for $beta_1$?**
+<details><summary> **Discussion/Demonstration: What is the best value for $$\beta_0$$ and the best value for $beta_1$?**
 </summary>
 - We need to optimize (maximize or minimize) some criterion.
 - The difference between the true value of Y and the predicted value of Y (called Y-hat) is known as a "residual." (For every value of Y-hat_i, there is an accompanying residual e_i.)
