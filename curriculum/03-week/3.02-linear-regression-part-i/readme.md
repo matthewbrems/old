@@ -179,3 +179,4 @@ There are some (almost all!) cases where we might be interested in multiple inde
 - [Linear Regression Assumptions Discussed - Duke University](http://people.duke.edu/~rnau/testing.htm)
 - [Wikipedia: Mean Squared Error](https://en.wikipedia.org/wiki/Mean_squared_error)
 - [Wikipedia: Residual Sum of Squares](https://en.wikipedia.org/wiki/Residual_sum_of_squares)
+- [Chris Albon's Intro to Linear Regression](https://chrisalbon.com/machine-learning/linear_regression_scikit-learn.html)
