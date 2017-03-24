@@ -76,3 +76,4 @@ plt.show()
 * SKLearn's [learning curves](http://www.astroml.org/sklearn_tutorial/practical.html) is a good further analysis of the tradeoff
 * A mathematical [deeper dive](https://courses.cs.washington.edu/courses/cse546/12wi/slides/cse546wi12LinearRegression.pdf) on linear regression and the bias variance tradeoff from UW
 * A tepid dive into [how ensembling helps solve the bias-variance tradeoff](http://www.hlt.utdallas.edu/~vgogate/ml/2015s/lectures/EnsembleMethods.pdf) (more on this tomorrow)
+* Amazon Machine Learning's discussion of over and underfitting [here](http://docs.aws.amazon.com/machine-learning/latest/dg/model-fit-underfitting-vs-overfitting.html)
