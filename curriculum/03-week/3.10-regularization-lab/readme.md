@@ -36,4 +36,4 @@ A completed Jupyter notebook.
 ## Additional Resources
 
 - [scikit-learn linear models](http://scikit-learn.org/stable/modules/linear_model.html), including regularization
-- [http://pandas.pydata.org/pandas-docs/stable/generated/pandas.get_dummies.html](Creating dummy variables with pandas)
+- [Creating dummy variables with pandas](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.get_dummies.html)
