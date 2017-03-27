@@ -28,10 +28,10 @@ Reading Files, Selecting Columns, and Summarizing
 
 # can read a file from local computer or directly from a URL
 pd.read_table('u.user')
-users = pd.read_table('https://raw.githubusercontent.com/justmarkham/DAT8/master/data/u.user')
+users = pd.read_table('https://raw.githubusercontent.com/josephofiowa/DAT8/master/data/u.user')
 
 # read 'u.user' into 'users'
-users = pd.read_table('https://raw.githubusercontent.com/justmarkham/DAT8/master/data/u.user', sep='|', index_col='user_id')
+users = pd.read_table('https://raw.githubusercontent.com/josephofiowa/DAT8/master/data/u.user', sep='|', index_col='user_id')
 
 # examine the users data
 users                   # print the first 30 and last 30 rows
@@ -68,7 +68,7 @@ EXERCISE ONE
 '''
 
 # read drinks.csv into a DataFrame called 'drinks'
-https://raw.githubusercontent.com/josephnelson93/GA-DSI/master/example-lessons/plotting-with-pandas/drinks.csv
+https://raw.githubusercontent.com/josephofiowa/GA-DSI/master/example-lessons/plotting-with-pandas/drinks.csv
 
 # print the head and the tail
 
