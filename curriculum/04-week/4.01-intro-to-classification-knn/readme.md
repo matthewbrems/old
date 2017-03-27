@@ -4,7 +4,7 @@
 *After this lesson, you will be able to:*
 - Define and give examples of classification
 - Explain kNN algorithm
-- Build a K-Nearest Neighbors using the scikit-learn library
+- Build a K-Nearest Neighbors classifier using the scikit-learn library
 
 
 ## Resources
