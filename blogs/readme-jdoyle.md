@@ -9,7 +9,7 @@ To submit, add your link to the table below:
 | Week 1        | `null` (do not edit)			|
 | Week 2        | `null` (do not edit)			|
 | Week 3        | https://doyleax.github.io/2017/03/19/sat-scores.html   				|
-| Week 4        | hhttps://doyleax.github.io/how-to/2017/03/27/pandas-sql-update.html     				|
+| Week 4        | https://doyleax.github.io/how-to/2017/03/27/pandas-sql-update.html     				|
 | Week 5        | **link**      				|
 | Week 6        | **link**						|
 | Week 7        | **link**						|	
