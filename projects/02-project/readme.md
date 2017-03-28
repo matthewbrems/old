@@ -138,6 +138,9 @@ Students interested in viewing the original, unreduced file can compare the redu
 ### Useful Resources
 - [Documentation for SKLearn](http://scikit-learn.org/stable/user_guide.html)
 - [What is regularization?](https://www.quora.com/What-is-regularization-in-machine-learning)
+- [Summary on what an executive summary entails](http://www.umuc.edu/current-students/learning-resources/writing-center/writing-resources/executive-summaries/index.cfm?noprint=true)
+- [How to write an executive summary for a proposal](https://www.proposify.biz/blog/executive-summary)
+- [An example of financial and marketing executive summaries](https://unilearning.uow.edu.au/report/4bi1.html)
 
 ---
 
