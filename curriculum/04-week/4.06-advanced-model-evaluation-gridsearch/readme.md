@@ -22,7 +22,7 @@ Week 4 | Lesson 4.07
 
 A correlation matrix is used to investigate the dependence between multiple variables at the same time. The result is a table containing the correlation coefficients between each variable and the others. This is ideal for feature selection when deciding which features to use in a predictive model.		 
 
-NumPy has an easy to use method perform to perform matrix correlations called ‘corrcoef’. [Review the code](./code/4.07-breast-cancer-coefficients.ipynb) for performing a Pearson correlation coefficient matrix on the Breast Cancer Dataset.
+NumPy has an easy to use method perform to perform matrix correlations called ‘corrcoef’. [Review the code](./code/4.06-breast-cancer-coefficients.ipynb) for performing a Pearson correlation coefficient matrix on the Breast Cancer Dataset.
 
 In any linear model with multiple independent variables, you will want these independent variables to be roughly independent of each other _or_ you'll want to include an interaction term.
 
@@ -57,9 +57,9 @@ shrunk_logreg = LogisticRegression(penalty='l2', C=1000.0) # C indicates weak re
 [This link](http://datascience.stackexchange.com/questions/10805/does-scikit-learn-use-regularization-by-default/10806) contains a brief discussion of scikit-learning regularizing by default and a way to _almost_ completely circumvent that.
 
 Here is a hand-drawn comparison of what regularization (or, equivalently, differing values of 'C') looks like in linear and logistic regression.
-![](assets/images/linear-logistic-regularization-visualization.jpeg)
+![](./linear-logistic-regularization-visualization.jpeg)
 
-Review [GridSearch Example](./code/4.07-search-grid.ipynb) and [Classification Report](./code/4.07-classification-report.ipynb) techniques for use in independent practice and project work.
+Review [GridSearch Example](./code/4.06-search-grid.ipynb) and [Classification Report](./code/4.06-classification-report.ipynb) techniques for use in independent practice and project work.
 
 <a name="guided-practice"></a>
 ## Discussion & Guided Practice: Gridsearch with multinomial logistic modeling on crime data
@@ -75,7 +75,7 @@ Multinomial vs. OvR
 
 We are using the gridsearch in conjunction with multinomial logistic to optimize a model that predicts the category (type) of crime based on various features captured by San Francisco police departments.
 
-[Multinomial logistic regression starter](../4.08-gridsearch-lab/4.08-gridsearch-starter-code.ipynb)
+[Multinomial logistic regression starter](../4.07-gridsearch-lab/4.07-gridsearch-starter-code.ipynb)
 
 <a name="conclusion"></a>
 ## Conclusion
