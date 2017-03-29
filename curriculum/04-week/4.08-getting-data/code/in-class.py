@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 14 12:22:53 2016
-
-@author: JosephNelson
-"""
-
 # make a request
 import requests
 r = requests.get('http://www.abrahamlincolnonline.org/lincoln/speeches/quotes.htm')
