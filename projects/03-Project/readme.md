@@ -61,7 +61,7 @@ Your job is to:
 
 - Materials must be in a clearly labeled Jupyter notebook.
 - Materials must be pushed to student's GitHub master branch.
-- Materials must be submitted by Friday, April 10th.
+- Materials must be submitted by Friday, April 14th.
 
 ---
 
