@@ -1,5 +1,5 @@
 ---
-title: DB Lab 2
+title: Review Lab
 type: lab
 duration: "1:25"
 creator:
