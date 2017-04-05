@@ -11,4 +11,6 @@ By the end of today's lesson, you'll be able to:
 
 - Michigan State Overview on [feature selection](http://www.cse.msu.edu/~cse802/Feature_selection.pdf) and (bonus) Texas A&M on [bidrectional feature selection](http://research.cs.tamu.edu/prism/lectures/pr/pr_l11.pdf)
 - Sklearn documentation on [feature selection](http://scikit-learn.org/stable/modules/feature_selection.html)
-- Side-by-side comparison of [feature selection tactics](http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/)
+- Side-by-side comparison of [feature selection tactics](http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/)  
+- Other people talking about how the [select features](https://www.quora.com/What-are-some-general-tips-on-feature-selection-and-engineering-that-every-data-scientist-should-know)  
+- Walkthrough on using [SelectKBest and RFECV](http://www.dummies.com/programming/big-data/data-science/how-to-use-python-to-select-the-right-variables-for-data-science/)  
