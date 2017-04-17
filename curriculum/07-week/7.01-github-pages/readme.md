@@ -46,6 +46,7 @@ I'm an educator. I found these resources useful when creating a Bootstrap page u
 
 - High level Github Pages overview [link](http://jmcglone.com/guides/github-pages/)
 - Video walkthrough creating a static site without even using the terminal (but you should learn git in the terminal) [link](http://dougbelshaw.com/blog/2015/01/04/github-pages/)
-- Configuring your DNS for your custom domain, Namecheap specific [link](http://abdelraoof.com/blog/2014/09/20/configuring-namecheap-dns-for-github/)
+- Configuring your DNS for your custom domain, Namecheap specific [link](http://abdelraoof.com/blog/2014/09/20/configuring-namecheap-dns-for-github)
 - Troubleshooting custom domains from Github help [link](https://help.github.com/articles/troubleshooting-custom-domains/)
 - Getting free stock photos for your site on Pixabay [link](https://pixabay.com/) and 13 others [link](https://www.entrepreneur.com/article/238646)
+- Getting an SSL cert for your personal site [link](https://hackernoon.com/set-up-ssl-on-github-pages-with-custom-domains-for-free-a576bdf51bc) h/t Mike Sanders
