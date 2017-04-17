@@ -62,8 +62,9 @@ def compile_files():
     import glob
     import pandas as pd
     import numpy as np
-    indeed_csvs = '/Users/jennydoyle/Desktop/dsi/indeed/'
+    indeed_csvs = '/Users/jennydoyle/Desktop/dsi/DC-DSI4/projects/03-Project/indeed/'
     files = glob.glob(indeed_csvs + '*.csv')
+    print files
     indeed_final = pd.DataFrame(columns=['job','company','location','salary','description'])
     for f in files:
         f = pd.read_csv(f, names=['job','company','location','salary','description'],low_memory=False)
@@ -103,7 +104,7 @@ def scrape_indeed():
         total = numbers_commas_to_int(total) # since there are commas if the number > 999, this function will deal with that and convert to int
     x = 0 # if we set the start variable in the URL to 0 to begin with, it will first pull up results 1-10
 
-    while x <= total:
+    while x <= total/3:
         url_new_page = url + str(x)
         page = requests.get(url_new_page).content
         soup = BeautifulSoup(page)
@@ -122,8 +123,12 @@ def scrape_indeed():
             description = get_description(results[i]) # put all descriptions for each posting on current results page into descriptions list
 
             add_job = pd.DataFrame([[job, company, location, salary, description]], columns = ['job','company','location','salary','description'])
-#            if add_job not in indeed:
-            indeed = indeed.append(add_job)
+            a = np.array(add_job)
+            if (indeed == a).all(1).any() == False:
+                indeed = indeed.append(add_job)                
+
+
+                
         x+=10
         new = len(indeed) - base
         elapsed = datetime.datetime.now() - start
@@ -142,6 +147,6 @@ def scrape_indeed():
     elapsed = finish-start
     print 'Elapsed: ',elapsed
     indeed = pd.DataFrame(indeed)
-    indeed.to_csv('/Users/jennydoyle/Desktop/dsi/indeed/'+now+'.csv',sep=',', encoding='utf-8')
+    indeed.to_csv('/Users/jennydoyle/Desktop/dsi/DC-DSI4/projects/03-Project/indeed/'+now+'.csv',sep=',', encoding='utf-8')
     return indeed
 
