@@ -71,6 +71,8 @@ def compile_files():
         indeed_final = indeed_final.append(f)
     indeed_final.drop_duplicates(inplace=True)
 #    indeed = np.array(indeed_final)
+    print 'Size = ',len(indeed_final)
+    print 'Salaries = ', len(indeed[indeed.salary.notnull()])
     return indeed_final
 
 def scrape_indeed():
@@ -104,7 +106,7 @@ def scrape_indeed():
         total = numbers_commas_to_int(total) # since there are commas if the number > 999, this function will deal with that and convert to int
     x = 0 # if we set the start variable in the URL to 0 to begin with, it will first pull up results 1-10
 
-    while x <= total/3:
+    while x <= total/4:
         url_new_page = url + str(x)
         page = requests.get(url_new_page).content
         soup = BeautifulSoup(page)
