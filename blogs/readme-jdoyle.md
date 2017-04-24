@@ -12,8 +12,8 @@ To submit, add your link to the table below:
 | Week 4        | https://doyleax.github.io/pandas-sql-update/     				|
 | Week 5        | https://doyleax.github.io/numstring-to-num/     				|
 | Week 6        | https://doyleax.github.io/logistic-regression/						|
-| Week 7        | **link**						|	
-| Week 8        | **link**						|
+| Week 7        | https://doyleax.github.io/iowa-liquor-sales/						|	
+| Week 8        | https://doyleax.github.io/webscraping						|
 | Week 9        | **link**						|
 | Week 10       | **link**						|
 | Week 11       | **link**						|
