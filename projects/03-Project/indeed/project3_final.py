@@ -64,7 +64,6 @@ def compile_files():
     import numpy as np
     indeed_csvs = '/Users/jennydoyle/Desktop/dsi/DC-DSI4/projects/03-Project/indeed/'
     files = glob.glob(indeed_csvs + '*.csv')
-    print files
     indeed_final = pd.DataFrame(columns=['job','company','location','salary','description'])
     for f in files:
         f = pd.read_csv(f, names=['job','company','location','salary','description'],low_memory=False)
