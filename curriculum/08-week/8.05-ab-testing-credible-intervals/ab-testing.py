@@ -61,9 +61,9 @@ def ztest(x1, n1, x2, n2, one_tailed=False):
 
 # Do a test with fake data:
 
-control_observations = 3141 #n1
-control_successes = 1904 # x1
-test_observations = 3241 #n2
-test_successes = 2134 #x2
+control_observations = 3141.0 #n1
+control_successes = 1904.0 # x1
+test_observations = 3241.0 #n2
+test_successes = 2134.0 #x2
 
 ztest(control_successes, control_observations, test_successes, test_observations, one_tailed=False)
