@@ -71,7 +71,7 @@ def compile_files():
     indeed_final.drop_duplicates(inplace=True)
 #    indeed = np.array(indeed_final)
     print 'Size = ',len(indeed_final)
-    print 'Salaries = ', len(indeed[indeed.salary.notnull()])
+    print 'Salaries = ', len(indeed_final[indeed_final.salary.notnull()])
     return indeed_final
 
 def scrape_indeed():
