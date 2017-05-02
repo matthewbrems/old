@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 15 10:16:40 2016
-
-@author: JosephNelson
-"""
-
 
 # REQUIRES DEV VERSION OF STATSMODELS
 # git clone git://github.com/statsmodels/statsmodels.git
