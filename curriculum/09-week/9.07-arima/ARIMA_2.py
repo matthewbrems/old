@@ -5,8 +5,9 @@
 
 import pandas as pd
 %matplotlib inline
+import matplotlib.pyplot as plt
 
-url = ''
+url = 'https://raw.githubusercontent.com/ga-students/DC-DSI4/master/curriculum/09-week/9.07-arima/euretail.csv?token=ANUtey6NA40mO6IqqjoJaq8bsVV55FMJks5ZEgS9wA%3D%3D'
 
 df = pd.read_csv(url)
 df = df.set_index(['Year'])
@@ -14,13 +15,16 @@ df.head()
 df.stack().plot()
 
 # define Dickey-Fuller test
+
 from statsmodels.tsa.stattools import adfuller
 def test_stationarity(timeseries):
 
     #Determing rolling statistics
-    rolmean = pd.rolling_mean(timeseries, window=12)
-    rolstd = pd.rolling_std(timeseries, window=12)
-
+    # rolmean = pd.rolling_mean(timeseries, window=12)
+    rolmean = timeseries.rolling(window=12,center=False).mean()
+    # rolstd = pd.rolling_std(timeseries, window=12)
+    rolstd = timeseries.rolling(window=12,center=False).std()
+    
     #Plot rolling statistics:
     fig = plt.figure(figsize=(12, 8))
     orig = plt.plot(timeseries, color='blue',label='Original')
