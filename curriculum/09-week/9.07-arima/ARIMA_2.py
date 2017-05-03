@@ -6,7 +6,7 @@
 import pandas as pd
 %matplotlib inline
 
-url = ''
+url = 'https://raw.githubusercontent.com/ga-students/DC-DSI4/master/curriculum/09-week/9.07-arima/euretail.csv?token=ANUte61i5c3U9OvhEX-KQttIr8qJ-eiKks5ZEiXjwA%3D%3D'
 
 df = pd.read_csv(url)
 df = df.set_index(['Year'])
@@ -15,11 +15,12 @@ df.stack().plot()
 
 # define Dickey-Fuller test
 from statsmodels.tsa.stattools import adfuller
+from matplotlib import pyplot as plt
 def test_stationarity(timeseries):
 
     #Determing rolling statistics
-    rolmean = pd.rolling_mean(timeseries, window=12)
-    rolstd = pd.rolling_std(timeseries, window=12)
+    rolmean = timeseries.rolling(window=12).mean()
+    rolstd = timeseries.rolling(window=12).std()
 
     #Plot rolling statistics:
     fig = plt.figure(figsize=(12, 8))
@@ -40,25 +41,31 @@ def test_stationarity(timeseries):
 
 from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
 
+df.diff(periods=4)[4:]
+
 # regular diff
+# every 4th thing is minus the 4th thing prior
+# so q4 minus prior q4
 diff0 = df.stack().diff(periods=4)[4:]
 diff0.plot(title='European Retail Trade Differenced')
 plot_acf(diff0, lags=30)
+plt.show()
 plot_pacf(diff0, lags=30)
-
+plt.show()
 test_stationarity(diff0)
 
 # additional diff
 diff1 = diff0.diff()[1:]
 diff1.plot(title='European Retail Trade Differenced Twice')
 plot_acf(diff1, lags=30)
+plt.show()
 plot_pacf(diff1, lags=30)
-
+plt.show()
 test_stationarity(diff1)
 
 import statsmodels.api as sm
 data = df.stack().values
-model = sm.tsa.statespace.SARIMAX(data, order=(0,1,1), seasonal_order=(0,1,1,4))
+model = sm.tsa.statespace.SARIMAX(data, order=(0,1,1), seasonal_order=(0,1,1,4)) ## seasonal_order(p,d,q,m)
 results = model.fit()
 print results.summary()
 
@@ -74,7 +81,7 @@ model = sm.tsa.statespace.SARIMAX(data, order=(0,1,2), seasonal_order=(0,1,1,4))
 results = model.fit()
 print results.summary()
 
-
+import numpy as np
 # forecasting
 res = model.fit()
 preds = res.forecast(12)

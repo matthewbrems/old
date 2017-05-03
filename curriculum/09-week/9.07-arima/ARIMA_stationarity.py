@@ -57,8 +57,8 @@ from statsmodels.tsa.stattools import adfuller
 def test_stationarity(timeseries):
 
     #Determing rolling statistics
-    rolmean = pd.rolling_mean(timeseries, window=12)
-    rolstd = pd.rolling_std(timeseries, window=12)
+    rolmean = timeseries.rolling(window=12).mean()
+    rolstd = timeseries.rolling(window=12).std()
 
     #Plot rolling statistics:
     fig = plt.figure(figsize=(12, 8))
