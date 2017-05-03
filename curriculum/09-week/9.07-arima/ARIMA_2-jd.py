@@ -5,8 +5,13 @@
 
 import pandas as pd
 %matplotlib inline
+import matplotlib.pyplot as plt
 
+<<<<<<< HEAD
 url = 'https://raw.githubusercontent.com/ga-students/DC-DSI4/master/curriculum/09-week/9.07-arima/euretail.csv?token=ANUte61i5c3U9OvhEX-KQttIr8qJ-eiKks5ZEiXjwA%3D%3D'
+=======
+url = 'https://raw.githubusercontent.com/ga-students/DC-DSI4/master/curriculum/09-week/9.07-arima/euretail.csv?token=ANUtey6NA40mO6IqqjoJaq8bsVV55FMJks5ZEgS9wA%3D%3D'
+>>>>>>> b2b9b95ef4f712e78a2b5184825e55c680b68561
 
 df = pd.read_csv(url)
 df = df.set_index(['Year'])
@@ -14,14 +19,23 @@ df.head()
 df.stack().plot()
 
 # define Dickey-Fuller test
+
 from statsmodels.tsa.stattools import adfuller
 from matplotlib import pyplot as plt
 def test_stationarity(timeseries):
 
     #Determing rolling statistics
+<<<<<<< HEAD
     rolmean = timeseries.rolling(window=12).mean()
     rolstd = timeseries.rolling(window=12).std()
 
+=======
+    # rolmean = pd.rolling_mean(timeseries, window=12)
+    rolmean = timeseries.rolling(window=12,center=False).mean()
+    # rolstd = pd.rolling_std(timeseries, window=12)
+    rolstd = timeseries.rolling(window=12,center=False).std()
+    
+>>>>>>> b2b9b95ef4f712e78a2b5184825e55c680b68561
     #Plot rolling statistics:
     fig = plt.figure(figsize=(12, 8))
     orig = plt.plot(timeseries, color='blue',label='Original')
