@@ -1,9 +1,6 @@
-# DSI-DSIR
-
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Immersive
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Immersive - Data Scientist in Residence
 
 Below are the details for the positions - please reach out to Joseph, Matt or Lauren if you have additional questions! 
-
 
 # DSIR @ GA
 
