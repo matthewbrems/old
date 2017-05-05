@@ -2,10 +2,11 @@
 
 Below are the details for the positions - please reach out to Joseph, Matt or Lauren if you have additional questions! 
 
+
 # DSIR @ GA
 
 We want you! We're looking for our Data Science in Residence for the next upcoming DSI cohort. This is a chance for you to gain some valuable experience as part of the DSI instructional team.
-#### *Please note: Training for this position would begin no later than the week of June 5th*
+#### *Please note: Training for this position would begin no later than June 5th*
 
 DSI5 (Summer cohort) will begin June 19th and will end Sept 9th.
 
@@ -34,9 +35,8 @@ As a DSIR, you will be responsible for teaching, planning, mentoring, grading, a
 > Some other perks: GA faculty are fantastic people who know how to have a good time.  - Theres like a free food bonus as well.; You get paid to learn more about what you enjoy; So much fun. Outrageous fun.
 - Sam, DSIR @ DSI3
 
-> Working alongside our instructional team gave me so much more confidence in the material. Teaching is the best way to learn, so I understood the concepts much more deeply after explaining them to others. I was also able to leverage my background in education to further develop General Assembly's data science curriculum. I enjoyed the experience so much that I've stayed involved with curriculum development and TA roles in GA's data science portfolio. I had a blast.
+> "Working alongside our instructional team gave me so much more confidence in the material. I was also able to use my background in education to forward the data science curriculum within General Assembly. I even enjoyed the role so much I became a remote TA for the Chicago DSI. It was a ton of fun."
 - Haley, DSIR @ DSI2
-
 
 
 ## DSIR Application Process
