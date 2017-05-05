@@ -34,8 +34,9 @@ As a DSIR, you will be responsible for teaching, planning, mentoring, grading, a
 > Some other perks: GA faculty are fantastic people who know how to have a good time.  - Theres like a free food bonus as well.; You get paid to learn more about what you enjoy; So much fun. Outrageous fun.
 - Sam, DSIR @ DSI3
 
-> "Working alongside our instructional team gave me so much more confidence in the material. I was also able to use my background in education to forward the data science curriculum within General Assembly. I even enjoyed the role so much I became a remote TA for the Chicago DSI. It was a ton of fun."
+> Working alongside our instructional team gave me so much more confidence in the material. Teaching is the best way to learn, so I understood the concepts much more deeply after explaining them to others. I was also able to leverage my background in education to further develop General Assembly's data science curriculum. I enjoyed the experience so much that I've stayed involved with curriculum development and TA roles in GA's data science portfolio. I had a blast.
 - Haley, DSIR @ DSI2
+
 
 
 ## DSIR Application Process
