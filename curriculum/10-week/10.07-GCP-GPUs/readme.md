@@ -172,7 +172,7 @@ c.NotebookApp.token = '' # No token. But, please, please always use jupyter over
 Set up a tunnel from your local machine to access Jupyter over ssh.
 
 ```bash
-~ ssh -i .ssh/ubuntu_gcp -L 8899:localhost:8888 [USER]@<IP-address-of-your-GPU-instance>
+~ ssh -i .ssh/google_compute_engine -L 8899:localhost:8888 [USER]@<IP-address-of-your-GPU-instance>
 ```
 
 Then, on the server, start Jupyter.
