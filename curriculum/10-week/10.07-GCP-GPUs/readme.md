@@ -99,7 +99,7 @@ You want the linux version:
 You will also need the external IP address of your running instance. To find that information, login to your [GCP Console](https://console.cloud.google.com). Once there, you should see "Resources" and "1 Instance" under "Compute Engine"
 . Click this. You will then see the External IP address in a table.
 
-![image](./images/ip-address.png) 
+![image](./images/configure-ip-address.png) 
 
 (Note that this IP address is not static. To promote or assign a static IP to your instance, read more [here](https://cloud.google.com/compute/docs/configure-ip-addresses.png).)
 
@@ -174,9 +174,6 @@ Set up a tunnel from your local machine to access Jupyter over ssh.
 ```bash
 ~ ssh -i .ssh/ubuntu_gcp -L 8899:localhost:8888 [USER]@<IP-address-of-your-GPU-instance>
 ```
-
-35.190.155.51
-
 
 Then, on the server, start Jupyter.
 
