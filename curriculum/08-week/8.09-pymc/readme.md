@@ -1,3 +1,4 @@
+
 ## ![logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Bayesian Estimation Methods / PyMC
 
 ## Learning Objectives
@@ -15,3 +16,5 @@ Bayesian inference has proven challenging. My goal is to walkthrough an **applie
 - Silly! [Life of a Bayesian YouTube](https://www.youtube.com/watch?v=fIXvC0SyNsw)
 
 The notebook is littered with links to PyMC docs.
+
+Bonus: Poisson regression (note how the theta is distributed across the mu of multiple values!) [documentation](https://pymc-devs.github.io/pymc3/notebooks/GLM-poisson-regression.html)
