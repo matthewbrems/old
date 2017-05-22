@@ -15,7 +15,7 @@ To submit, add your link to the table below:
 | Week 7        | https://doyleax.github.io/iowa-liquor-sales/						|	
 | Week 8        | https://doyleax.github.io/webscraping						|
 | Week 9        | https://doyleax.github.io/Run-Jupyter-Notebook-from-EC2/						|
-| Week 10       | **link**						|
+| Week 10       | https://doyleax.github.io/Predicting-West-Nile-Virus/						|
 | Week 11       | **link**						|
 | Week 12       | --capstone--						|
 
