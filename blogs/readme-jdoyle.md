@@ -16,7 +16,7 @@ To submit, add your link to the table below:
 | Week 8        | https://doyleax.github.io/webscraping						|
 | Week 9        | https://doyleax.github.io/Run-Jupyter-Notebook-from-EC2/						|
 | Week 10       | https://doyleax.github.io/Predicting-West-Nile-Virus/						|
-| Week 11       | **link**						|
+| Week 11       | https://doyleax.github.io/Bayes-and-Monty-Hall/						|
 | Week 12       | --capstone--						|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
